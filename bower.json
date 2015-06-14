@@ -1,0 +1,26 @@
+{
+  "name": "template",
+  "version": "0.0.1",
+  "authors": [
+    "darkoverlordofdata <darkoverlordofdata@gmail.com>"
+  ],
+  "description": "template",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "tmp",
+    "build",
+    "node_modules",
+    "packages",
+    "src",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "ash": "git://github.com/darkoverlordofdata/ash.coffee"
+  },
+  "packages": {
+    "ash": "ash/dist/*.*"
+  }
+}

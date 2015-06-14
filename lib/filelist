@@ -1,0 +1,3 @@
+lib/prolog.coffee
+lib/src/resource.coffee
+lib/src/app.coffee
